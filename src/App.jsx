@@ -46,7 +46,7 @@ function App() {
 
   return (
   <div className="container">
-    <h3>Counter</h3>
+    <h3>Current value: </h3>
     <h1>{count}</h1>
     <div className="buttons">
       {/*  */}
